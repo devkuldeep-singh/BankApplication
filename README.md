@@ -3,6 +3,6 @@ Bank Management System <br>
 • Implemented money transfer, loan request, and transaction history features <br>
 • Deployed and tested the application on Apache Tomcat server  <br>
 • Used JDBC with Oracle SQL for database connectivity <br>
-• Managed application flow using Servlets and JSP 
+• Managed application flow using Servlets and JSP <br>
 Technologies Used:Java, Advanced Java(Servlets, JSP, JDBC),Oracle SQL, HTML,  
 CSS,  JavaScript 
