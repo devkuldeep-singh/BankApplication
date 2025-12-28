@@ -12,6 +12,7 @@ Account creation and management<br>
 Money transfer between accounts<br>
 
 Loan request and processing module<br>
+
 Transaction history and mini-statement<br>
 
  Web-based interface with dynamic pages<br>
