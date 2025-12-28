@@ -16,7 +16,7 @@ Transaction history and mini-statement<br>
 
  Web-based interface with dynamic pages<br>
 
-<h3> Technologies Used<h3>
+<h3> Technologies Used</h3>
 
 Backend: Java, Advanced Java (Servlets, JSP, JDBC)<br>
 
